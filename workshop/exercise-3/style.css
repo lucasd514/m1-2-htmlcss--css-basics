@@ -1,1 +1,21 @@
-/* ...crickets... */
+h1 {
+    font-size: 30px;
+    margin: 0;
+    text-align: center
+}
+p {
+    margin : 0;
+}
+.subtitle{
+    font-size: 20px;
+    text-align: center
+}
+.content {
+    font-size: 14px;
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+span {
+    font-style: italic;
+ /* this is for me */
+    font-weight: bold   
+}
