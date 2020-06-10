@@ -3,5 +3,24 @@ body {
 }
 
 button {
-  /* Solve me */
+ background-color: blue;
+ color: white;
+ border-radius: 5px;
+ transition: transform: 400ms 
+ outline: none
 }
+
+button:active {
+   transform: scale(.9)
+  
+}
+
+button:focus {
+  background-color: red;
+    
+}
+
+/* heavily leaned on the solution to understand this one
+after reading through everything. different states are much clearer now
+big big fan of this exercise not like the stupid #7
+huehuehuhue */
